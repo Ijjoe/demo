@@ -1,0 +1,6 @@
+- .git파일을 압축하여 백업상태 
+- ADB 
+- 로컬 설치 사양 Opening emulator Pixel_6_API_34
+- create-expo-app@3.0.0-expo-app box-app --template bare-minimum
+- npm run android
+- npx expo install react-native-web react-dom @expo/metro-runtime
